@@ -28,4 +28,4 @@ Things you may want to cover:
 # This has been changed
 sdkjfhsdkjfdsgkmjh
 
-TEST CASSANDRA
+TEST CASSANDRA BIJEARD
